@@ -115,9 +115,10 @@ Ok. *Ready?*
 4. Now install **Claude Code** in the codespace inside VS Code, by following the *Getting started in 30 seconds* instructions: https://docs.anthropic.com/en/docs/claude-code/overview
     * You run the commands from within the Terminal, which is accessible under **View / Terminal**.
     * Now you're basically running. Just ask Claude Code to do stuff.
-5. You will need to get familiar and comfortable with working with source control, committing changes to git and syncing to your remote repo on GitHub.
+    * Exit ```/exit``` the claude cli
 6. **ruvnet/claude-flow**:
     - Follow initial setup instructions here: https://github.com/ruvnet/claude-flow/
+    - minimally, this is just ``npx claude-flow@alpha init --force`` to populate your repo.
 7. **YOLO-PRO protocols**:
     - Append contents of `yolo-pro_protocols.md` to your `CLAUDE.md`.
     - Usage: YOLO-PRO protocols are carried out on request (read the file for details), protocols currently include:
@@ -148,6 +149,8 @@ Ok. *Ready?*
 
 ## Usage 
 Check out this [Un‐official Claude Flow Usage Guide ‐ Real‐World Patterns and Best Practices](https://github.com/cgbarlow/pipeline/wiki/Un%E2%80%90official-Claude-Flow-Usage-Guide-%E2%80%90-Real%E2%80%90World-Patterns-and-Best-Practices) (thanks, Marc!)
+
+It is assumed you are familiar and comfortable with working with source control, committing changes to git and syncing to your remote repo on GitHub.
 
 ### Quick examples
 Typical prompts I use:
