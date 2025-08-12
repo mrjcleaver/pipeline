@@ -109,6 +109,7 @@ Ok. *Ready?*
 1. Create a repo in GitHub, tick the box that creates a **README.md**
 2. Install **VS Code**.
 3. You need a development environment. Easiest way is to start with a codespace.
+    * If you haven't already, authorize access to Codespaces, so you'll see the _Create New Codespace_ in the next step.
     * On the welcome screen of VS Code, select the option for **Connect to**, then select **Create New Codespace**.
     * If you are not already authenticated to GitHub you should be prompted to do that.
     * Now select the repo you just created from the drop-down. The codespace will spin up and clone the remote repo to the codespace.
