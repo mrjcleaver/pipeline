@@ -120,6 +120,7 @@ Ok. *Ready?*
     - Follow initial setup instructions here: https://github.com/ruvnet/claude-flow/
 7. **YOLO-PRO protocols**:
     - Append contents of `yolo-pro_protocols.md` to your `CLAUDE.md`.
+    - https://raw.githubusercontent.com/cgbarlow/pipeline/refs/heads/main/claude.md_customisations/yolo-pro_protocols.md
     - Usage: YOLO-PRO protocols are carried out on request (read the file for details), protocols currently include:
       - Work Chunking Protocol (WCP)
       - Continuous Integration
